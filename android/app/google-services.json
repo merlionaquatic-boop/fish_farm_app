@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774519681336",
+    "project_id": "fish-farm-app-cc432",
+    "storage_bucket": "fish-farm-app-cc432.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774519681336:android:e6d51f969def528352d1cd",
+        "android_client_info": {
+          "package_name": "com.example.fish_farm_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ZTIIdaM4pMA1A5gULS0-DQr7fAo2BxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
